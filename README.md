@@ -6,7 +6,8 @@
 
 ## Запуск с нуля
 Стенд работает в WSL (Ubuntu 24.04). Нужны две консоли WSL и Mission Planner
-на Windows (`MissionPlanner/MissionPlanner.exe` из этого репозитория).
+на Windows: готовая кастомная сборка — папка `MissionPlanner/MissionPlanner_net461`
+этого репозитория, запускать `MissionPlanner.exe` из неё.
 
 **Окно 1 — SITL** (при первом запуске скрипт соберёт его сам, ~несколько минут):
 

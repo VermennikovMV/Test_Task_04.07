@@ -4,3 +4,4 @@
 *.exe binary
 *.dll binary
 *.png binary
+MissionPlanner/MissionPlanner_net461/** -text
