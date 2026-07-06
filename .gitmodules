@@ -1,0 +1,4 @@
+[submodule "MissionPlanner/source"]
+	path = MissionPlanner/source
+	url = https://github.com/VermennikovMV/MissionPlanner_Test_Task_0.4.07.git
+	branch = task

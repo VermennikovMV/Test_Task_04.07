@@ -1,0 +1,6 @@
+# Все текстовые файлы храним и выдаём с LF: скрипты и конфиги исполняются в WSL,
+# CRLF ломает bash ("\r: command not found")
+* text=auto eol=lf
+*.exe binary
+*.dll binary
+*.png binary
